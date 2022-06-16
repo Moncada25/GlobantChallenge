@@ -103,4 +103,4 @@ Git was used for version control, applying Trunk Based Development.
 
 ## Author 😎
 
-* **Santiago Moncada** - [Contacto](mailto:santiago.moncada@rappi.com)
+* **Santiago Moncada** - [Contacto](mailto:santiago.moncada.dev@gmail.com)
