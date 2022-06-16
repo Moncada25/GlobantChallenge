@@ -1,4 +1,4 @@
-# Globant Automation Challenge 👀
+# Globant Automation Challenge 💪
 
 ![Globant](src/main/resources/banner.jpg)
 
