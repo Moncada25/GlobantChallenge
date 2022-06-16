@@ -1,22 +1,18 @@
 # Globant Automation Challenge 👀
 
----
 ![Globant](src/main/resources/banner.jpg)
 
 ## Introduction 🚀
 
----
 Automation for a business challenge, with scenarios for successful and unsuccessful logins.
 
 ### Scenarios
 
----
 - Enter the website, login with correct credentials, verify successful login.
 - Enter the website, login with incorrect credentials, verify error message.
 
 ## Pre requirements to execute 📋
 
----
 - Java v11 and JDK (environment variables configured).
 - IntelliJ IDEA.
 - Gradle v7.0 or higher (environment variables configured).
