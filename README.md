@@ -21,14 +21,13 @@ Automation for a business challenge, with scenarios for successful and unsuccess
 
 ## Installation 🔨
 
-- You must run the following command to clone this repository
-  locally: ```git clone https://github.com/Moncada25/GlobantChallenge.git```
+- You must run the following command to clone this repository locally: ```git clone https://github.com/Moncada25/GlobantChallenge.git```
 - Import the project from IntelliJ IDE.
 - You must build the project running the command: ```gradle clean build -x test```
 
 ## Project structure 🚧
 
-* > ```src/main/java/com/rappi/cns/accesstonetwork/```
+* > ```src/main/java/com/globant/challenge/wordpress/```
 
     + **```exceptions```**
       classes that catch custom exceptions when automation fails in the then step.
@@ -53,14 +52,13 @@ Automation for a business challenge, with scenarios for successful and unsuccess
     + **```banner```**
       cover image for repository markdown.
     
-* > ```src/test/java/com/rappi/cns/accesstonetwork/```
+* > ```src/test/java/com/globant/challenge/wordpress/```
 
     + **```runners```** 
       classes to run automation with the scenarios indicated in the feature.
 
     + **```stepdefinitions```**
       classes that are the entry point of the feature to translate from Gherkin language to code and thus allow the execution of automation.
-
 
 * >```src/test/resources/```
 
