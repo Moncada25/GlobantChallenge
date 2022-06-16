@@ -21,7 +21,6 @@ Automation for a business challenge, with scenarios for successful and unsuccess
 
 ## Installation 🔨
 
----
 - You must run the following command to clone this repository
   locally: ```git clone https://github.com/Moncada25/GlobantChallenge.git```
 - Import the project from IntelliJ IDE.
@@ -29,7 +28,6 @@ Automation for a business challenge, with scenarios for successful and unsuccess
 
 ## Project structure 🚧
 
----
 * > ```src/main/java/com/rappi/cns/accesstonetwork/```
 
     + **```exceptions```**
@@ -77,7 +75,6 @@ Automation for a business challenge, with scenarios for successful and unsuccess
     
 ## Run tests 🔥
 
----
 Go to the root of the project and execute the following command in the console:
 
 >*Full run*
@@ -90,7 +87,6 @@ Go to the root of the project and execute the following command in the console:
 
 ## Built with 🛠
 
----
 Automation was developed with:
  - **Java** - Programming language
  - **BDD** - Development strategy
@@ -103,10 +99,8 @@ Automation was developed with:
  
 ## Versioning 🔀
 
----
 Git was used for version control, applying Trunk Based Development.
 
 ## Author 😎
 
----
 * **Santiago Moncada** - [Contacto](mailto:santiago.moncada@rappi.com)
