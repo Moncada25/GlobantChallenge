@@ -10,10 +10,10 @@ Feature: Login page
 
   @LoginSuccess
   Scenario: Login success
-    When he login using a password 'correct'
-    Then should see the page 'My Home'
+    When he login using a credentials 'correct'
+    Then should see his profile
 
   @LoginFailed
   Scenario: Login failed
-    When he login using a password 'incorrect'
-    Then should see a error message
+    When he login using a credentials 'incorrect'
+    Then should see an error message

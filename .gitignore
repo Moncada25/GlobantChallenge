@@ -5,6 +5,7 @@
 *.class
 
 # IDE folders
+/.idea/
 /.metadata/
 /.sonarlint/
 *.project
